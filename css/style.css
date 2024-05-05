@@ -20,7 +20,7 @@ img{
 }
 ul{
   width: 100px;
-  height: 267px;
+  height: 395px;
   border: 3px solid black;
   margin: 0 auto;
   list-style: none;
@@ -45,4 +45,10 @@ li{
 }
 #yellow{
   background: rgb(255, 255, 0);
+}
+#orange {
+  background: rgb(227, 151, 10);
+}
+#red {
+  background: rgb(220, 9, 9);
 }
